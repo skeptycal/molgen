@@ -1,0 +1,5 @@
+package molgen // import "github.com/skeptycal/molgen"
+
+Package molgen contains utilities for macOS.
+
+func Example()
