@@ -35,12 +35,15 @@
 │   ├── index.html
 │   └── template.md
 ├── example.go
+├── go.doc
+├── go.mod
 ├── go.test.sh
 ├── idea.md
 ├── make_tree_md.sh
+├── molgen.go
 └── tree.md
 
-7 directories, 26 files
+7 directories, 29 files
 ```
 
 [get_tree]: (http://mama.indstate.edu/users/ice/tree/)
